@@ -1,5 +1,5 @@
-.kaufman__triange {
-  background-image: url(/images/kaufman-triangle.svg);
+.kaufman__triangle {
+  background-image: url(../../../images/kaufman-triangle.svg);
   object-fit: cover;
   position: absolute;
   top: 0;
