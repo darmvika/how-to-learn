@@ -1,5 +1,6 @@
 .description {
-    background-color: white;
-    display: flex;
-    justify-content: center;  
-  }
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  padding: 100px 0px;
+}
